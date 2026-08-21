@@ -1,0 +1,16 @@
+fastapi
+python-dotenv
+langchain
+langchain-openai
+pydantic
+llama-index
+uvicorn
+
+
+
+
+
+
+
+
+
